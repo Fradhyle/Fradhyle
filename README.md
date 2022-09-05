@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 -->
 - ⚡ Fun facts
     - I'm bachelor of Business Administration
+    - I'm also Computer Technician and I have 4 years experience as part-timer.
