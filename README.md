@@ -6,7 +6,9 @@
 Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Python, Python based web and Artificial Intelligence(includes Machine Learning, Deep Learning)
+- 🌱 I’m currently learning Python.
+- I'm interested in Python based web and Artificial Intelligence(includes Machine Learning, Deep Learning).
+- I have 3 month experience worked as Computer Vision Engineer.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
