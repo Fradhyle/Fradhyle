@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email me to address on my GitHub profile
 - 😄 Pronouns: He/him/his
 - ⚡ Fun facts
-    - I'm bachelor of Business Administration
+    - I'm a bachelor of Business Administration
     - I'm also Computer Technician and I have 4 years experience as part-timer.
