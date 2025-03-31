@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working with [MEGA Limited](https://github.com/meganz) as freelance Korean translator since 2013
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and working as a Python engineer
 - I'm interested in Python based web and Artificial Intelligence(includes Machine Learning, Deep Learning).
 - I have 3 month experience worked as Computer Vision Engineer.
 <!--
