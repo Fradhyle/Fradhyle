@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun facts
     - I'm a bachelor of Business Administration
     - I'm also IT support specialist and I have 4 years experience as part-timer.
-    - I have experience with branding, service planning
+    - I have experience with branding and service planning
