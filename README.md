@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🤔 I’m looking for help with making Python based store management website using Django named [IMX](https://github.com/Fradhyle/IMX)
+- 🤔 I’m looking for help with making Python based store management website using [Django](https://github.com/django/django) named [IMX](https://github.com/Fradhyle/IMX)
 - 📫 How to reach me: Email me to address on my GitHub profile
 - 😄 Pronouns: He/him/his
 - ⚡ Fun facts
